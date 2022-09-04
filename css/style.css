@@ -65,7 +65,14 @@ h7{
 }
 
 
-@media (max-width: 575.98px) { 
+@media (max-width: 575.98px) {
+    .logo{
+        font-size: 30px;
+    } 
+    .ban-img{
+        height: 50vh;
+        width: 100%;
+    }
     .carousel-caption
     {
         margin-bottom: 35px;
@@ -80,8 +87,8 @@ h7{
     .carousel-caption button{
         height: 40px;
         width: 120px;
-    }
-    .btn-text{
+    } 
+   .btn-text{
         font-size: 18px;
-    }
+    } 
  }
